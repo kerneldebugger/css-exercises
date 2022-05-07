@@ -1,20 +1,17 @@
-.number-1 {
+.odd-elements {
     background-color: #EA2F07;
     color: #000000;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.special-odd {
     font-size: 24px;
 }
 
 #number-2 {
     background-color: #ffffff;
     color: #1374F0;
-    font-size: 38px;
-    font-weight: bold;
-}
-
-.number-3 {
-    background-color: #EA2F07;
-    color: #000000;
-    font-size: 32px;
+    font-size: 36px;
     font-weight: bold;
 }
 
@@ -25,8 +22,3 @@
     font-weight: bold;
 }
 
-.number-5 {
-    background-color: #EA2F07;
-    color: #000000;
-    font-size: 24px;
-}
