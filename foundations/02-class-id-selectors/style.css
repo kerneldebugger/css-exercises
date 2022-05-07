@@ -17,3 +17,16 @@
     font-size: 32px;
     font-weight: bold;
 }
+
+#number-4 {
+    background-color: #000000;
+    color: #80EF47;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.number-5 {
+    background-color: #EA2F07;
+    color: #000000;
+    font-size: 24px;
+}
