@@ -3,3 +3,17 @@
     color: #000000;
     font-size: 24px;
 }
+
+#number-2 {
+    background-color: #ffffff;
+    color: #1374F0;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.number-3 {
+    background-color: #EA2F07;
+    color: #000000;
+    font-size: 32px;
+    font-weight: bold;
+}
